@@ -1,6 +1,6 @@
 ---
 title: The Adventure of the Priory School
-date: 2018-08-12 00:00:00 Z
+date: 2018-08-12 02:00:00 +02:00
 categories:
 - literature
 author: Arthur Conan Doyle
