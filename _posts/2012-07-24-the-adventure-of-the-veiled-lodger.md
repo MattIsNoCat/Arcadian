@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The adventure of the veiled lodger"
 layout: post
 author: "Arthur Conan Doyle"
 categories: literature

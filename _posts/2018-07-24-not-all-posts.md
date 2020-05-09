@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "But maybe they should"
 layout: post
 author: "Pat Dryburgh"
 categories: opinion

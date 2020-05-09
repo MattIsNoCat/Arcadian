@@ -1,10 +1,22 @@
+html {
+  height: 100%;
+}
+
 body {
   background: $brand-color;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
   line-height: 1.5;
+  min-height: 100%;
 }
+
+//.background-image {
+  //background-image: url(https://images.unsplash.com/photo-1517021897933-0e0319cfbc28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2819&q=80);
+  //background-size: cover;
+  //background-position: center;
+  //box-shadow: inset 0 0 0 1000px rgba(254,222,0, 0.9);
+//}
 
 h1 {
   font-size: 3em;
@@ -76,6 +88,10 @@ small {
   font-size: .75em;
 }
 
+body,p {
+  margin: 0;
+}
+
 p > cite {
   display: block;
   text-align: right;
@@ -136,7 +152,7 @@ figcaption {
 }
 
 .site-credits {
-  margin: 0 auto 2em;
+  margin: 0 auto 0em;
   padding: 0 2em;
   text-align: center;
 }

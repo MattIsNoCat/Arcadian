@@ -25,6 +25,7 @@ github_username:  mattisnocat
 
 # Build settings
 markdown: kramdown
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
