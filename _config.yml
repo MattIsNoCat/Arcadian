@@ -1,6 +1,6 @@
 ---
 title: Arcadian
-timezone: UTC
+timezone: Europe/Amsterdam
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 email: matthanwesterneng@gmail.com
 description: A place for stories to gather.
-baseurl: ''
+baseurl: 
 url: https://www.arcadian.blog
 icon: "/assets/images/icon-512.png"
 twitter_username: mattisnocat
