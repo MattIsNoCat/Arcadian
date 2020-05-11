@@ -1,9 +1,7 @@
 ---
 title: The Adventure of the Speckled Band
-date: 2018-08-12 00:00:00 Z
-categories:
-- literature
 author: Arthur Conan Doyle
+category: literature
 layout: post
 ---
 

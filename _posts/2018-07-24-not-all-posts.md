@@ -1,10 +1,8 @@
 ---
-title: But maybe they should
-date: 2018-07-24 00:00:00 Z
-categories:
-- opinion
+title: "But maybe they should"
 layout: post
-author: Pat Dryburgh
+author: "Pat Dryburgh"
+categories: opinion
 ---
 
 Not all posts need a title.

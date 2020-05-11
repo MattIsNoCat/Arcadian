@@ -1,10 +1,8 @@
 ---
 title: The Adventure of Charles Augustus Milverton
-date: 2018-08-12 00:00:00 Z
-categories:
-- literature
 layout: post
 author: Arthur Conan Doyle
+category: literature
 ---
 
 It is years since the incidents of which I speak took place, and yet
