@@ -1,8 +1,9 @@
 ---
+title: The Adventure of the Dying Detective
+date: 2012-06-09 00:00:00 Z
+categories:
+- literature
 layout: post
-title: "The Adventure of the Dying Detective"
-author: "Arthur Conan Doyle"
-categories: literature
 author: Arthur Conan Doyle
 ---
 
