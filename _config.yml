@@ -2,6 +2,10 @@
 title: Arcadian
 timezone: UTC
 collections:
+  pages:
+    title: Pages
+    output: false
+    permalink: "/:title/"
   posts:
     title: Posts
     output: true
@@ -9,19 +13,13 @@ collections:
     title: Uploads
     output: true
 email: matthanwesterneng@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A place for stories to gather.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.arcadian.blog" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon.png
+description: A place for stories to gather.
+baseurl: ''
+url: https://www.arcadian.blog
+icon: "/assets/images/icon.png"
 twitter_username: mattisnocat
-github_username:  mattisnocat
-permalink: /:categories/:title/
-collections:
-  pages:
-    permalink: /:title/
-
-# Build settings
+github_username: mattisnocat
+permalink: "/:categories/:title/"
 markdown: kramdown
 show_excerpts: true
 plugins:
