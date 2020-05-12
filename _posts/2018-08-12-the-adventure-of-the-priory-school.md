@@ -1,10 +1,11 @@
 ---
 title: The Adventure of the Priory School
+date: 2018-08-12 00:00:00 Z
+categories:
+- literature
 author: Arthur Conan Doyle
-category: literature
 layout: post
 ---
-
 
 We have had some dramatic entrances and exits upon our small stage at Baker Street, but I cannot recollect anything more sudden and startling than the first appearance of Thorneycroft Huxtable, M.A., Ph.D., etc. His card, which seemed too small to carry the weight of his academic distinctions, preceded him by a few seconds, and then he entered himself—so large, so pompous, and so dignified that he was the very embodiment of self-possession and solidity. And yet his first action when the door had closed behind him was to stagger against the table, whence he slipped down upon the floor, and there was that majestic figure prostrate and insensible upon our bearskin hearthrug.
 
